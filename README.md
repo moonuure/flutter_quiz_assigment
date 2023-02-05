@@ -12,6 +12,9 @@ otherwase you can create new user in the register Page
 figma link.......
 https://www.figma.com/proto/BkVrPthM3BwhMYrMFRPosn/Quiz-Protype?node-id=0%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A15
 
+[Quiz Protype.pdf](https://github.com/mohaalka/flutter_quiz_assigment/files/10611601/Quiz.Protype.pdf)
+
+
 ![image](https://user-images.githubusercontent.com/99583384/216830369-2338c677-1568-46c2-8fb2-bc747b06b502.png)
 ![image](https://user-images.githubusercontent.com/99583384/216830386-ffc55d18-996e-4c8e-b4f0-e54993578a5e.png)
 ![image](https://user-images.githubusercontent.com/99583384/216830405-506b49eb-6f51-4333-8ec1-71571eeab84e.png)
