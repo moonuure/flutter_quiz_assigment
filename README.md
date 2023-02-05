@@ -3,6 +3,12 @@
 ID:C119026
 Name: Mohamed Nure Warsame
 
+login username and password:
+username:ab@gmail.com
+password:280055
+
+otherwase you can create new user in the register Page
+
 figma link.......
 https://www.figma.com/proto/BkVrPthM3BwhMYrMFRPosn/Quiz-Protype?node-id=0%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A15
 
