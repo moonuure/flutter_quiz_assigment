@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
-import '../txtFields/textField.dart';
-import '../txtFields/buttons.dart';
+import '../TBfields/textField.dart';
+import '../TBfields/buttons.dart';
 
 class RagisterPage extends StatefulWidget {
   final Function() onTap;

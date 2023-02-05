@@ -120,7 +120,8 @@ class _QuizDashState extends State<QuizDash> {
               },
               child: DashGrid(
                 dashQuizColor: Colors.teal,
-                quizIcon: Icon(Icons.language, size: 50, color: Colors.white),
+                quizIcon: Icon(Icons.tag_faces_outlined,
+                    size: 50, color: Colors.white),
                 quizName: "QUIZ SIX",
                 subText: "Mind Test",
               ),
