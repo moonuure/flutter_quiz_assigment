@@ -1,9 +1,5 @@
 # flutter_quiz_assigment
 
-Class: CA191
-ID:C119026
-Name: Mohamed Nure Warsame
-
 login username and password:
 username:ab@gmail.com
 password:280055
